@@ -35,6 +35,7 @@ document.getElementById("testarr").innerHTML = array.reduce(() => `[${array}]`);
     // console.log(num);
 }
 // Splice
+//change
 {
     array.splice(3 , 0, "Biliksu");// adding items using splice
     console.log(array)
