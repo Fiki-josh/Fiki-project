@@ -1,0 +1,13 @@
+git init - initialize a git repo
+git clone
+git status
+git add - taken a snapshot of files to commit
+git commit - saving the files
+git commit --amend
+git branch - create, rename, list branches, deleting a branch
+git checkout - undoing changes, switching to various branches etc 
+git revert HEAD
+git reset
+git reflog or git log --oneline
+git merge branch
+git pull and push
